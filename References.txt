@@ -1,0 +1,10 @@
+>>> Assitance with understanding 'this':
+http://javascriptweblog.wordpress.com/2010/08/30/understanding-javascripts-this/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+
+>>> OOP Introduction:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
+
+>>> General References From Search
+http://www.w3schools.com/
+http://stackoverflow.com/
